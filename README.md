@@ -1,2 +1,2 @@
-"# dsa-practice" 
-" 1) sorts" 
+# dsa-practice
+1) sorts
